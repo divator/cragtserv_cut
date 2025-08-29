@@ -1,6 +1,5 @@
 .venv/
 .env
-static/assets/
 *.id 
 *.pid 
 *.db
